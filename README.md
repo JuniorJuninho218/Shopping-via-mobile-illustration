@@ -13,3 +13,4 @@
 
 <h2>projeto também foi feito no responsivo</h2>
 
+<img src="https://github.com/JuniorJuninho218/Shopping-via-mobile-illustration/blob/main/img/smartphone.png?raw=true">
